@@ -10,7 +10,7 @@ namespace samplegithub1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Prabu");
+            Console.WriteLine("Prabu test");
         }
     }
 }
